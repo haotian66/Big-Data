@@ -1,2 +1,2 @@
 # Big-Data
-Course project
+The codes of the course project of the course "Big Data Ecosystem".
